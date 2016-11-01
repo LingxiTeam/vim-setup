@@ -10,7 +10,7 @@ Plugin 'VundleVim/Vundle.vim'
 Plugin 'scrooloose/nerdtree'
 Plugin 'tpope/vim-vinegar'
 Plugin 'ctrlpvim/ctrlp.vim'
-Plug 'vim-airline/vim-airline'
+Plugin 'vim-airline/vim-airline'
 
 call vundle#end()
 filetype plugin indent on
