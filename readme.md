@@ -2,11 +2,11 @@
 
 ```bash
 
-# 删除或者自己备份
-rm .vimrc
-rm -rf .vim
-
 git clone https://github.com/LingxiTeam/vim-setup ~/.vim
+
+git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
+
+在 .vimrc 里面添加 so ~/.vim/vimrc
 
 ```
 
